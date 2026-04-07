@@ -1,5 +1,0 @@
-CFEDemands
-ConsumerDemands
-ligonlibrary
-plotly
-ipympl
